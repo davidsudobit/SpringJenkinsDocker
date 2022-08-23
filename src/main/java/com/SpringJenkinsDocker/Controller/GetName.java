@@ -10,6 +10,6 @@ public class GetName {
 	
 	@GetMapping("getName")
 	public String getName() {
-		return "David Successfully In!!!";
+		return "David Successfully In";
 	}
 }
